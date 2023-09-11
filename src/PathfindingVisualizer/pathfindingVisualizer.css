@@ -1,0 +1,22 @@
+.visualizer{
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+.grid {
+    display: block;
+    margin-top: 7rem; 
+    margin-left:1rem;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width:97vw;
+    /* padding:7px; */
+    border: 3px solid green;
+    overflow-x: hidden;
+    overflow-y: hidden;
+ }
+ .temp{
+    margin:auto;
+    height: max-content;
+    width: max-content;
+ }

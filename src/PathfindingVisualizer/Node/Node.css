@@ -1,0 +1,32 @@
+.node{
+    height: 25px;
+    width:25px;
+    margin:0;
+    padding:0;
+    background-color: whitesmoke;
+    outline: 1px solid rgb(198, 196, 196);
+    display: inline-block;
+}
+
+
+.node-start{
+    background-color: mediumvioletred;
+}
+
+.node-finish{
+    background-color: rgb(233, 54, 54);
+}
+
+.node-wall{
+    background-color: #966F33;
+    outline-style: groove;
+    outline-offset: -2px;
+}
+
+.node-visited{
+    background-color: aquamarine;
+}
+
+.node-shortest-path{
+    background-color: mediumseagreen;
+}
